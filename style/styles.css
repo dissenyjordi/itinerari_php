@@ -1,0 +1,12 @@
+.table-hover tbody tr:hover td {
+    background:rgba(0,255,0,0.2);
+    font-weight: bold;
+}
+
+.container {
+    padding-top: 1em;
+}
+
+.table {
+    margin-top: 1em;
+}
