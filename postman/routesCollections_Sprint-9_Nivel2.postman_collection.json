@@ -1,0 +1,103 @@
+{
+	"info": {
+		"_postman_id": "cea15f4a-8ac2-480b-b246-79876b940bd5",
+		"name": "routesCollections_Sprint-9_Nivel2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Sprint-9-Nivel2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Sprint-9-Nivel2",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}/articulos",
+					"host": [
+						"{{IP}}"
+					],
+					"path": [
+						"articulos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Sprint-9-Nivel-2",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}/articulos",
+					"host": [
+						"{{IP}}"
+					],
+					"path": [
+						"articulos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Sprint-9-Nivel-2",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}/articulos",
+					"host": [
+						"{{IP}}"
+					],
+					"path": [
+						"articulos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Sprint-9-Nivel-2",
+			"request": {
+				"method": "LINK",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}/articulos",
+					"host": [
+						"{{IP}}"
+					],
+					"path": [
+						"articulos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Sprint-9-Nivel-2",
+			"request": {
+				"method": "VIEW",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}/articulos",
+					"host": [
+						"{{IP}}"
+					],
+					"path": [
+						"articulos"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

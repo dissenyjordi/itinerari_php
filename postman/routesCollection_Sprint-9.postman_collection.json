@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "059ea585-8cc1-476c-9107-d552b0fe0d05",
+		"name": "routesCollection_Sprint-9",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Sprint-9",
+			"request": {
+				"method": "LINK",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}",
+					"host": [
+						"{{IP}}"
+					]
+				},
+				"description": "Test LINK"
+			},
+			"response": []
+		},
+		{
+			"name": "Sprint-9",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}",
+					"host": [
+						"{{IP}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Sprint-9",
+			"request": {
+				"method": "VIEW",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}",
+					"host": [
+						"{{IP}}"
+					]
+				},
+				"description": "Test Sprint-9"
+			},
+			"response": []
+		},
+		{
+			"name": "Sprint-9",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}",
+					"host": [
+						"{{IP}}"
+					]
+				},
+				"description": "Test-Sprint-9"
+			},
+			"response": []
+		}
+	]
+}
